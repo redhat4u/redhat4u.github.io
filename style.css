@@ -1,0 +1,10 @@
+body { font-family: "Malgun Gothic", "Apple SD Gothic Neo", "Segoe UI", sans-serif; max-width: 760px; margin: 40px auto; padding: 0 20px; line-height: 1.7; color: #222; }
+header { display: flex; align-items: center; gap: 14px; border-bottom: 1px solid #ddd; padding-bottom: 12px; margin-bottom: 24px; }
+header img { width: 48px; height: 48px; }
+header h1 { margin: 0; font-size: 26px; }
+nav a { margin-right: 16px; }
+h2 { margin-top: 32px; font-size: 20px; }
+h3 { font-size: 16px; margin-top: 20px; }
+.en { margin-top: 48px; padding-top: 16px; border-top: 1px dashed #ccc; color: #444; }
+footer { margin-top: 48px; padding-top: 12px; border-top: 1px solid #ddd; font-size: 13px; color: #777; }
+code { background: #f3f3f3; padding: 1px 5px; border-radius: 3px; }
